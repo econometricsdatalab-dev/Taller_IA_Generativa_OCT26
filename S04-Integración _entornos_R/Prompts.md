@@ -1,0 +1,4 @@
+# Prompts utilizados en sesión 
+
+1. Crea código de R, en el que se pueda gráficar una serie de tiempo mediante ggplot2 y usando dplyr. La serie de tiempo las vas conectar con getSymbols para bajar un ticket de un activo financiero, en este caso el activo deberá ser de Apple Inc. El gráfico debe ser muy profesional, limpio y visualmente atractivo para usarse en análisis financiero.
+2. Realiza código de R para estimar y validar una regresión lineal múltiple. Como datos utiliza la información de mtcars que viene disponible. La variable dependiente es mpg, las independientes son cyl, disp y wt. Valida los supuestos de la RLM (multicolinealidad, homocedasticidad, correlación serial, normalidad de residuos). Implementa gráficos con ggplot2 y dplyr a un nivel visual alto, es para presentación académica y como refuerzo al análisis del modelo.
